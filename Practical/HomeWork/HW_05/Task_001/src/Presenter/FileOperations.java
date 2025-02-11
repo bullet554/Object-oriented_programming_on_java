@@ -1,4 +1,4 @@
-package Service;
+package Presenter;
 
 import Model.FamilyTree;
 

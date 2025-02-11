@@ -1,6 +1,6 @@
 package Model;
 
-import Service.ActorBehaviour;
+import Presenter.ActorBehaviour;
 
 public abstract class Actor implements ActorBehaviour {
     protected final String name;

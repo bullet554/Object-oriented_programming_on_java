@@ -1,7 +1,7 @@
 package Model;
 
-import Service.MarketBehaviour;
-import Service.QueueBehaviour;
+import Presenter.MarketBehaviour;
+import Presenter.QueueBehaviour;
 
 import java.util.ArrayList;
 import java.util.List;

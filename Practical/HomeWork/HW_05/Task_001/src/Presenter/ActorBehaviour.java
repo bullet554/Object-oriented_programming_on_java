@@ -1,4 +1,4 @@
-package Service;
+package Presenter;
 
 public interface ActorBehaviour {
     void setMakeOrder(boolean makeOrder);

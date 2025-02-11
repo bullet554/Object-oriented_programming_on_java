@@ -1,9 +1,9 @@
-package Main;
+package View;
 
 import Model.FamilyTree;
 import Model.Person;
-import Service.FileOperations;
-import Service.FileOperationImpl;
+import Presenter.FileOperations;
+import Presenter.FileOperationImpl;
 
 import java.io.IOException;
 
